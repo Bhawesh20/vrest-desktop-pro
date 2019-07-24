@@ -9,7 +9,7 @@ vREST Pro Edition contains the following features & functionalities:
 - All the features available in the community edition plus
 - Advanced Response Validation
 - Read Test Data from Excel Sheet
-- Data Driven Testing ( [Learn More]('./data-driven-testing/README.md') )
+- Data Driven Testing ( [Learn More]('/data-driven-testing') )
 - Test Setup using shell commands/scripts
 - Priority Support
 - Advanced Failure Debugging
