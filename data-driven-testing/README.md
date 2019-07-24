@@ -13,7 +13,7 @@ Let us see how you can do that,
 
 ## Step 1 - Download & Install vREST Desktop
 * First of all, you need to have vREST Application installed on your Desktop.
-* Download it from [HERE](https://desktop.vrest.io) (for your OS).
+* Download it from [HERE](/releases) (for your OS).
 
 ## Step 2 - Clone this repository & Open this as a Project in vREST
 * You can clone this repository and keep it anywhere you want in your system. 
