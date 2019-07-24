@@ -3,7 +3,7 @@
 *(This is a sample test data repository for performing Data Driven Testing using csv files and vREST.)*
 # Data Driven Testing (using vREST Desktop) 
 
-![](assets/main.png)
+![](../assets/main.png)
 
 vREST provides you the ability to perform one of the most productive approach in the world of testing. Data Driven Testing is an approach, which can save you a lot of time, effort, and other resources.
 
@@ -19,23 +19,23 @@ Let us see how you can do that,
 * You can clone this repository and keep it anywhere you want in your system. 
 * Once you have done that, you just have to open this repository in your vREST Workspace.
 
-![](assets/6.png)
+![](../assets/6.png)
 
 * Now, you can explore this Project on your own.
 
 ## Step 3 - Integrate Sample Data File (.csv) in vREST Desktop 
 * Open/Edit Sample Test Data if needed.
 
-![](assets/excel-sheet.png)
+![](../assets/excel-sheet.png)
 
 * Integrate with vREST Desktop for Live Editing.
 
-![](assets/98.png)
+![](../assets/98.png)
 
 * Now you can make changes and simply save the csv. The changes will get automatically reflected in vREST. 
 
 ## Step 4 - Run Test Cases
-* Now you can ![](assets/10.png) the test cases.
+* Now you can ![](../assets/10.png) the test cases.
 
 ## Benefits of Data Driven Testing
 
@@ -60,4 +60,4 @@ This way you can separate the work of writing Test Data and Automation Logic, ev
     * **Minimization of Test Cases**: You will have a very limited number of relevant test cases left, because now you don't have to create an individual test case for each type of test data input.
     * **Easy to make Changes**: Making changes in data becomes very easy because you just need to make changes in a data document (Excel Sheet, .numbers, .csv files), and you are not concerned with the test logic at all.
 
-If you want to learn more about Data Driven Testing, then follow this [link]().
+If you want to learn more about Data Driven Testing, then follow this [link](https://desktop.vrest.io/docs/guide/solutions/data-driven-testing.html).
