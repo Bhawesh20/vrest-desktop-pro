@@ -1,4 +1,3 @@
 {
-  "contactsAppBaseURL": "http://example.vrest.io/contacts/v1/test",
-  "dataDir": "C:\\Users\\amans\\Documents\\ddt\\data"
+  "contactsAppBaseURL": "http://example.vrest.io/contacts/v1/test"
 }

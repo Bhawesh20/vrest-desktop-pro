@@ -10,8 +10,7 @@
     ]
   },
   "validation": {
-    "assertions": [
-      {
+    "assertions": [{
         "source": "statusCode",
         "operator": "equalToNumber",
         "expectedValue": "{{data.$.statusCode}}",
@@ -50,8 +49,7 @@
     "body": {
       "content": "",
       "type": "form-urlencoded",
-      "formParams": [
-        {
+      "formParams": [{
           "name": "name",
           "value": "{{data.$.name}}"
         },
@@ -77,7 +75,7 @@
   "variables": [],
   "extensions": {
     "vrest-excel-plugin": {
-      "testDataFilePath": "{{dataDir}}/sample1.csv"
+      "testDataFilePath": "{{$projectDir}}/data/sample.csv"
     }
   }
 }
