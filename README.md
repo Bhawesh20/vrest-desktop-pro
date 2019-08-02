@@ -1,4 +1,4 @@
-# vREST Desktop v0.0.103
+# vREST Desktop v0.0.109
 
 This is a repository to maintain releases of vREST Desktop Application.
 
@@ -18,7 +18,7 @@ In order to explore this sample test data repository in vREST, you can follow th
 
 ## Step 1 - Download & Install vREST Desktop
 * First of all, you need to have vREST Application installed on your Desktop.
-* Download it from [HERE](/releases) (for your OS).
+* Download it from [HERE](https://github.com/Optimizory/vrest-desktop-pro/releases) (for your OS).
 
 ## Step 2 - Clone this repository & Open this as a Project in vREST
 * You can clone this repository and keep it anywhere you want in your system. 
@@ -30,7 +30,7 @@ In order to explore this sample test data repository in vREST, you can follow th
 
 ## Report Issues
 
-To report any bugs or issues, you can simply do it in the [Issues Section](/issues).
+To report any bugs or issues, you can simply do it in the [Issues Section](https://github.com/Optimizory/vrest-desktop-pro/issues).
 
 ## Join our Discord Server
 
