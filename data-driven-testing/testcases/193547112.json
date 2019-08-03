@@ -10,7 +10,8 @@
     ]
   },
   "validation": {
-    "assertions": [{
+    "assertions": [
+      {
         "source": "statusCode",
         "operator": "equalToNumber",
         "expectedValue": "{{data.$.statusCode}}",
@@ -34,7 +35,9 @@
       "type": "json"
     },
     "expectedSchema": {
-      "content": {},
+      "content": {
+        "$ref": "#/definitions/{{data.$.schemaName}}"
+      },
       "type": "json"
     }
   },
@@ -49,7 +52,8 @@
     "body": {
       "content": "",
       "type": "form-urlencoded",
-      "formParams": [{
+      "formParams": [
+        {
           "name": "name",
           "value": "{{data.$.name}}"
         },
