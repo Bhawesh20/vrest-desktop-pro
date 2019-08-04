@@ -1,6 +1,6 @@
 [
   {
-    "name": "Data Driven Testing",
+    "name": "Sample Test Suite",
     "description": "Test Suite to demonstrate data driven testing.",
     "testCaseIds": [
       "15592228",
